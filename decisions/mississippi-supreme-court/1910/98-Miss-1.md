@@ -1,0 +1,25 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1910-03"
+citations: ["98 Miss. 1", "52 So. 451"]
+reporter: "miss"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Benjamin R. Garrett et al. v. Richard H. Ellis et al."]
+source_url: "https://static.case.law/miss/98/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1508076
+cites_cases: ["19 South. 37", "19 South. 709", "23 South. 431", "24 South. 973", "31 South. 197", "36 U. S., 9", "56 Miss. 753", "57 Miss. 646", "6 Miss. 10", "60 Miss. 115", "61 Miss. 392", "7 South. 238", "72 Miss. 266", "72 Miss. 366", "72 Miss. 886", "85 Miss. 292", "85 Miss. 802"]
+---
+
+# Garrett v. Ellis
+
+## Majority (Mayes, C. J.,)
+
+Mayes, C. J.,
+delivered the opinion of the court.
+A very careful investigation of this case leads to the irresistible conclusion that B. F. Garrett, as mortgagee-after condition broken, entered into the actual possession of the land about which this contest is being waged, and was in actual possession and receiving the profits and rent of the land for a period of more than twenty years before the institution of this suit. We do not deem it necessary to enter into a detailed statement of the facts in this opinion. In reporting the case,- the reporter ■can do that. In addition to being in possession of the land under conditions that were notorious throughout all that neighborhood, renting it out and receiving rents therefor, the parties in possession reciting in their deeds in trust that it was the land of Garrett for years and years; he paid taxes on it and had it assessed to him for -over twenty years. All these things corroborate the statement of the witnesses to the effect that Garrett was in possession and receiving the rents, though not con■clnsive in themselves. This case is absolutely controlled by section 3092 of the Code of 1906, which is as follows, viz.: “When a mortgagee, after condition broken, shall -obtain the actual possession or receipts of the .profits or rent of land embraced in his mortgage, the mortgagor, or any person claiming through him, may not bring a .suit to redeem the mortgage but within ten years next after the time at which the mortgagee obtained such ■possession or receipt, unless in the meantime an acknowledgment of the title of the mortgagor, or' of his right of redemption, shall have been given in writing, signed by the mortgagee, of the person claiming through him; and in such case a suit may not be brought but within ten years next after the time at which such ac'knowledgment, or the last of such acknowledgments, if more than one, was given; but such acknowledgment shall be effectual only as against, and to the extent of ihe interest of the party signing it.”
+This section contains no saving clause as to minors or other persons whomsoever, and when once it is shown that the mortgagee, after condition broken and without fraud, actually obtains possession of the land, or receipt •of the profits or rent of land embraced in his mortgage for the period prescribed by statute, his title is complete. The statute above quoted is explicit and positive, and gives the mortgagee title when he has obtained actual possession, or when he has been in receipt of the rents and profits of the land for more than ten years. In short, actual possession is not necessary in order to perfect the title; but even if there has been no actual possession, but there has been a receipt of rents and profits for the period of limitation, the title is complete.
+It is contended that, even if it is shown that the mother and brother of complainants did surrender the land to the mortgagee, this act of theirs could not prejudice the rights of the other heirs, equally interested in the property, unless acquiesced in By them. We do not think this contention can be sustained under the statute. The statute is purely a statute of limitations, peremptory in its commands, and utterly without indulgence. Such statutes as this, though seemingly harsh at times, yet work out much good in the adjustment of affairs between man and man, and prevent more wrong than they perpetrate. The fact of the possession of .the land embraced in the mortgage by the mortgagee after condition broken, or the fact of the receipt by him of profits and rent of the land for a period of ten years, makes this title complete, no matter how or through whom he obtains his possession, or how he obtains the profits or rents, unless, of course, he obtains it through fraud. It will rarely- happen that a mortgagee will be allowed to retain possession of land for ten years without disturbance from the owner of same, unless there has been some kind of a transfer of the property to the mortgagee.
+The decree of the chancellor is reversed, prayer of cross-bill sustained, and decree entered here canceling the claim of complainants in the original bill as a cloud upon the title of B. F. Garrett, and the title to property declared to be in B. F. Garrett.
+So ordered.
