@@ -1,0 +1,24 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1872"
+citations: ["1 Mor. St. Cas. 426", "12 Smedes & M. 69"]
+reporter: "mor-st-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Barney et al. v. The State,"]
+source_url: "https://static.case.law/mor-st-cas/1/cases/0426-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12134902
+cites_cases: ["5 S. & M., 664", "8 S. & M., 587"]
+---
+
+# Barney v. State
+
+## Majority (ThacheR, J.:)
+
+ThacheR, J.:
+This is an indictment under the act of February 9,1839, entitled “An act further to discourage and suppress gaming.” Hutch., c. 951, art. 11.
+To this indictment preferred by the grand jury of Amite county, the accused pleaded in abatement, “ That one Alexander Dixon was then and there a member of the said grand jury, and that said Alexander Dixon was not then and there at the finding of said indictment by the said grand jury, either a freeholder or a householder within the said county of Amite,” etc. To this plea the district attorney filed a demurrer, and assigned. for canse, that the plea did not allege, that the said jnror, Alexander Dixon, was at the time of empanelling the said grand jury, neither a householder nor a freeholder; and that the accused, by not challenging the said juror, Alexander Dixon, at the time of the empanelling of said grand jury, waived all right to question, after that time, the qualifications of said juror. This demurrer was sustained in the circuit court, and upon judgment of respondeat ouster, the accused pleaded not guilty, and upon a trial, conviction and sentence ensued.
+In the case of Dowling v. The State, 5 S. & M., 664, we stated, that it had been held in Massachusetts, “ that objections to the personal qualifications of grand jurors, or to the legality of the returns, cannot affect any indictments found by them, after they have been received and filed by the court; but that such objections, if any exist, must be made before the indictments are found, and may be received from any person, who is under a presentment for any crime whatsoever; or from any person present, who may make the suggestion as amicus curioeP The English forms and practice of stating in the caption of every indictment, that it was found by twelve good and lawful men, is not there preserved, but the language is simply, “ The jurors for the commonwealth, upon their oath, present,” etc., and hence if any irregularity should happen, it might' be made a subject of inquiry upon a suggestion to the court, for in that state the grand jury is constituted under its superintendence, and must be understood to have the legal number of qualified men. The rule in Massachusetts was not, however, adopted by us in the case of Dowling v. The State, nor can it be under our forms and practice, which follow, in this particular, the English modes. On the contrary, in McQuillen v. The State, 8 S. & M., 587, where the question was directly made, we decided, that an accused has the right‘to challenge, by plea in abatement, the competency of the grand jury, by whom he is indicted. This privilege arises not alone from the legal principle, that indictments not found by twelve good and lawful men at the least, are void and erroneous at common law, and, therefore, some mode must be left open for ascertaining the fact, but is well sustained as a method of insuring to accused persons a fair and impartial trial. Such persons are not present, when the grand jurors are empanelled, perhaps hare not been made subjects of complaint or even suspicion. It certainly would not be right to estop a party from pleading a matter, to which he could not otherwise except.
+The interest of an accused under indictment, with the grand jury, commences at the time of the finding of the indictment. This is the point of time when, as to him, the legal number of qualified men must exist upon the grand inquest. Indictments not found by at least twelve good and lawful men, are void at common law. Cro. Eliz., 654; 2 Burr, 1088; 2 Hawk. P. C. 307. It is said by Hawkins, P. C. B. 2, ch. 25, § 28, that, if any one of the grand jury, who find an indictment, be within any one of the exceptions in the statute, he vitiates the whole, though ever so many unexceptionable persons joined with him in finding it. Chitty, in his Cr. Law, vol. 1, p. 307, lays down the same doctrine, if it be discovered after the finding. The statutes of this state require, among other qualifications of jurors, that they should be either freeholders or householders. H. & H., 490, § 44. Hence, we think the demurrer of the district attorney in this case should not have been sustained.
+The judgment must be reversed, and the demurrer directed to be overruled in this court, and we remand the case for further proceedings.
