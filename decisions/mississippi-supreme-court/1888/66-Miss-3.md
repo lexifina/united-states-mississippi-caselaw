@@ -1,0 +1,30 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1888-10"
+citations: ["66 Miss. 3"]
+reporter: "miss"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["New Orleans and Northeastern R. R. Co. v. F. A. Bourgeois."]
+source_url: "https://static.case.law/miss/66/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1784604
+cites_cases: ["37 Ark. 593", "58 Ala. 594", "64 Miss. 637", "64 Miss. 693", "83 Ala. 196"]
+---
+
+# New Orleans & Northeastern R. R. v. Bourgeois
+
+## Majority (Arnold, C. J.,)
+
+Arnold, C. J.,
+delivered the. opinion of the court.
+This action was brought by appellee to recover damages for the killing of three head of cattle by appellant’s trains’. The cattle were killed at different times and places. The testimony shows, without conflict, that the animals were not on the track until the train came near them, when they got on, or attempted to cross the track, within a few yards of the engine running at the rate of from twenty to thirty miles an hour.
+It appears from the testimony for appellee, that at the places where two of these cattle were struck, the view along th'e track for several hundred yards was unobstructed, and that stock on or near the track might have been seen that distance. This is not denied, but the engineer who was on the train, testified, and he is not contradicted on this point, that he did not see either of the cattle, until they were so near the engine that he could not check or stop the train in time to save them, and that he sounded the whistle or stock alarm and did all he could, under the circumstances, to prevent the collision, but was unable to do so.
+It is not shown or suggested, that the engineer could or should have done anything that was not done, after the cattle got on the track; but the contention is, that he might have seen them near the track, and should have reduced the speed of the train or stopped it, before they came upon the track.
+- We need not consider what degree of care, consistent with his other duties, was required of the engineer in keeping on the lookout for obstructions on the track, for if it be admitted that he saw the cattle near the track, before they came upon it, the view contended for cannot be sustained. If adopted without qualification, it would go far to destroy the value and defeat the purposes for which railroads are constructed. Eapid movements and regular connections are among the chief advantages of transportation by railroads. These are demanded both by the interests of the public and of railroad companies. Eailroad companies in the prosecution of their lawful business, have a right to a clear track, and to the exclusive use and enjoyment of their property, subject, of course, to the condition upon which all others own and use property, that they must so use it as not to injure the person or property of others, if it can be avoided by reasonable care.
+Eailroad companies are not liable in damages for every injury that may be inflicted by their trains. If a law were to declare them so liable, without reference to whether there was negligence or fault on their part or not, it would be unconstitutional and void. Zeigler v. R. R. Co., 58 Ala. 594. They are responsible for injuries caused by their negligence or want of skill or care; but there is no reason in law or morals, for holding them to a stricter measure of accountability for inevitable misfortunes than would be exacted from natural persons for injuries which resulted from unavoidable accident. Zeigler v. R. R. Co., supra.
+It cannot be said to be the duty of a railroad company to check the speed or stop its passing trains every time an animal is seen near its track, unless there is something to indicate danger or the necessity of the animal going upon the track; and if an animal when first discovered on the track, is so near the engine that collision cannot be prevented by the prompt use of all proper appliances, and the animal is killed or injured, no liability for damages is thereby incurred by the company. Impossibilities are no more required by law of railroad companies, than of other persons. R. R. Co. v. Caldwell, 83 Ala. 196.
+Ordinarily, the discovery of animals near the road, does not require checking the speed or stopping, the train. That should occur only when it seems necessary to avoid collision. Something must be confided to the discretion of the engineer or person in charge of the train, and infallibility on his part is not expected or required. The use of the whistle or stock alarm is generally sufficient to keep stock out of the way of the train. Unless appearances reasonably indicate danger of their going,upon the track, neither the stoppage nor an effort to stop the train is required; but when exisiting conditions suggest such danger, they must be heeded, and failure to do so, will constitute negligence. Yazoo & Miss. Valley R. R. Co. v. Brumfield, 64 Miss. 637; Railway Co. v. Trotter, 37 Ark. 593.
+In all actions against railroad companies for damage done to person or property, proof of injury inflicted by the running of the locomotives or cars of such company, is prima fade evidence of the want of reasonable skill and care on the part of the servants of such company, in reference to such injury. Code, sec. 1059. Such evidence, if there is none other, entitles the plaintiff to verdict; but such evidence is not conclusive. It may be rebutted and overcome, and the railroad company may acquit itself of negligence in the matter, if it can. And when the circumstances attending the injury are shown by the evidence, the case must then be determined by the jury, on the facts proved, and not upon any presumption of negligence created by the statute. V. & M. R. R. Co. v. Phillips, 64 Miss. 693.
+On the facts of record, the verdict should have been for appellant. It was error to refuse the first instruction asked by appellant.
+The judgment is reversed and a new trial awarded.
