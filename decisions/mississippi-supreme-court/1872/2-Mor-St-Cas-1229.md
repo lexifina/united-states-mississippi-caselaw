@@ -1,7 +1,8 @@
 ---
 court: "Mississippi Supreme Court"
 decided: "1872"
-citations: ["2 Mor. St. Cas. 1229", "37 Miss. R., 288", "2 Mor. St. Cas. 1226", "36 Miss. R., 636"]
+decided_precision: "year"
+citations: ["2 Mor. St. Cas. 1229", "37 Miss. R., 288"]
 reporter: "mor-st-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Simon v. State,"]
 source_url: "https://static.case.law/mor-st-cas/2/cases/1229-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1829573
-cites_cases: ["1 Dev., 259", "1 How., 256", "1 McLean, 499", "1 Strob., 155", "17 Ala., 192", "2 Dev., 543", "2 Leigh, 802", "4 S. & M., 2", "4 S. & M., 31"]
+cites_cases: ["1 Dev., 259", "1 How., 256", "1 McLean, 499", "1 Strob., 155", "17 Ala., 192", "2 Dev., 543", "4 S. & M., 2", "4 S. & M., 31"]
 ---
 
 # Simon v. State
