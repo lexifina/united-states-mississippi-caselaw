@@ -1,0 +1,30 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1872"
+citations: ["2 Mor. St. Cas. 1752"]
+reporter: "mor-st-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ned Gaiter v. The State."]
+source_url: "https://static.case.law/mor-st-cas/2/cases/1752-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1829598
+cites_cases: ["2 Ga., 421", "25 Miss., 589", "26 Miss., 362", "3 How. 27", "35 Miss., 210", "39 Miss., 705", "43 Ala., 21", "8 S. & M., 722"]
+---
+
+# Gaiter v. State
+
+## Majority (Tarbell, J.:)
+
+Tarbell, J.:
+The plaintiff in error, having been tried in the criminal court of Warren county, on a charge of murder, whereof he was convicted and sentenced, brings his case to this court for review. The errors assigned are based upon defects in the record, and are as follows: 1. That the grand jury was not legally organized ; 2. That the record does not show that the plaintiff in error was present in -court during the several stages of the trial; 3. That the record does not show that the accused ivas asked before sentence, if he had anything to say why sentence of death should not be pronounced against him, and for other reasons, &e.
+The record in this case is certainly very defective, and the verdict can be sustained only by constructions and intendments which ought not to be indulged in a criminal case, involving the life of a party.
+From the organization of the court, on the 9th day of November, 1869, to the 24th day of the same month, on which day the indictment was filed, no intermediate date is given as to any of the orders or transactions of the court in reference to this case. The trial being postponed, the-record states that the court again convened on the 14th day of February, 1870. * In this case a special venire was called, jurors fined, a motion to quash the indictment was overruled, a trial had, a motion for a new trial overruled, a motion in arrest of judgment denied, and sentence pronounced, without showing the date of those proceed-. ings, all of which occurred between the opening of the court on the 14th day of February and the 5th day of March, 1870, when the bill of exceptions was signed.
+Without giving the date of the order, it is stated by the record, that. “ It appearing to the court that no grand jury has been selected by the board of police for the present term of this court, it is ordered, in accordance with tbe statute in such cases, that the sheriff of the county do select and summon from the county aforesaid twenty good and lawful men thereof, householders and freeholders thereof, and citizens of the United States, to be and appear here before this court, instcmter, then and there to serve as grand jurors for the November term A. D. 1869 of this court.” It is then stated that “ Thereupon, in obedience to said command aforesaid, the sheriff aforesaid summoned the following good and lawful men of his county, to wit: A. H. Arthur, foreman,” and nineteen others, whose names are given.. The next statement is that three of the persons so sum-' moned were excused from service on the grand jury.
+. Then follows-, this entry: ££ This day the grand jury duly empaneled and. sworn for the present term of this court, There-, upon their., foreman, A. H. Arthur, Esq., returned into court here several indictments, each indorsed thereon £ A true bill,’ ” cfec. Then this: “ Among said indictments was the following, in words and figures as follows.” The indictment being given, the clerk certifies it to have-been filed November 24, 1869. It will be seen that, except by a forced: construction and liberal intendments, the grand jury was not didy empaneled. It is stated, by way of recital, that it had been previously done; but there is no direct statement of the organization of the grand jury on the day when it occurred. A literal reading of the record shows the indictment to have been presented by the foreman and not by the grand jury through him.
+On a day not given, the record states that “This'day came the district attorney, for and on. behalf of the state, as well as the said defendant by his attorneys, and the said defendant by his-attorneys moves the court to quash the indictment herein,” but the grounds of this motion are not shown, and it was overruled. Then follows an entry of the trial, and at its conclusion it is added, “ And the said defendant is remanded to jail.”
+If these occurrences all transpired on the same day, it is possible the accused was in court, when the motion to quash the indictment was ■ submitted, though the record asserts ■ affirmatively that he. appeared on that occasion by counsel. As it is altogether probable the trial occupied several days; the entry at its termination -that the defendant was remanded to jail .cannot. cure the defect.
+The record of the motion in arrest of judgment states it to have been made by attorney-, without any entry upon which to found even a-forced presumption of the presence of the prisoner in court.
+The record also wholly neglects to show that before sentence' the. accused was asked if he had anything to say why sentence of .death - should not be pronounced upon him, which we have held in another case at this term should appear,, though this.. alone does not entitle tbe party to a new trial. A bill of exceptions appears to the refusal of tbe court to arrest tbe judgment, but no testimony is sent up.
+We are unwilling, in a case of life and death, to sustain a verdict upon a record so full of defects as this, requiring, as it does, in all its parts, constructions, and intendments, directly contrary to tbe ordinary and literal meaning of tbe language used. In criminal cases tbe record should leave as little as possible to construction and presumption, because in such cases there is little that is not matter of substance. We have reached tbe conclusion to send tbe case back for a new trial.
+Tbe judgment is therefore reversed, tbe cause remanded, and a venire de novo awarded.
