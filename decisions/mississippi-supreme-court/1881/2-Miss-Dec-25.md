@@ -1,0 +1,29 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1881-11-21"
+citations: ["2 Miss. Dec. 25"]
+reporter: "miss-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. T. McGehee et al. v. J. H. Field."]
+source_url: "https://static.case.law/miss-dec/2/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1371778
+cites_cases: ["12 So. 259", "18 So. 542", "22 So. 805", "36 So. 244", "36 So. 544", "38 So. 315", "46 Miss. 676", "58 Miss. 664", "59 Miss. 575", "6 So. 713", "60 Miss. 47", "67 Miss. 197", "69 Miss. 707", "73 Miss. 254", "75 Miss. 505", "84 Miss. 200", "84 Miss. 450", "86 Miss. 354"]
+---
+
+# McGehee v. Field
+
+## Majority (Campbell, J.:)
+
+Opinion.
+Campbell, J.:
+The question presented by this record is, whether or not section 841 of the Oode of 1871 embraces executions issued by a justice of the peace. Its language is broad enough to include all writs of execution, but the inquiry is a proper one, whether executions issued by justices of the peace were in the contemplation of the Legislature in enacting it, or was it intended to include only writs issued from the Circuit and Chancery courts. Nosciiur a sociis is a familiar maxim, and is useful in construction.
+The prototype of section 841 of the Code of 1871 is the eighth section of the Act of June 22, 1822, Hutch. Code, p. 899. Its object was to change the common law rule, which made executions a lien from their teste, which was the term before issuance, and might be a day before the judgment was rendered, by reason of the teste being the first day of term, which was the case in this State in 1822. Section 841 of the Code of 1871 was transferred from the Code of 1857, where it was found adopted from the Act of 1822 above cited, with a slight change as to the penalty on the" officer who should fail to mark on the process the time of its receipt by him. Art. 270, p. 526, of the Code of 1857.
+By that article the officer, for any failure to make the required indorsement on the writ, was made liable to a penalty of $100 to the use of the plaintiff, recoverable by motion before, the court from which the execution issued. This makes it certain that the article in the Code of 1857 (represented by section 841 in the Code of 1871) did not embrace executions issued by justices of the peace, because at that time and under that Code $100 was a sum beyond the jurisdiction of a justice of the peace, and there is no instance in it of an attempt to confer on a justice of the peace jurisdiction of such an amount.
+Did the fact that by the Constitution of 1869 the jurisdiction of justices of the peace was enlarged to $150 in amount, enlarge the scope of section 841 in the Code of 1871, transferred from the Code of 1857, where it certainly did not apply to executions issued by justices of the peace? The Code of 1857 contains “An Act in relation to justices of the peace,” in which their civil jurisdiction and the mode of its exercise are prescribed. Executions to enforce their judgments are specifically provided for in this act, and the effect of their judgments and executions to bind the goods and chattels of the defendant in such a judgment is expressly declared to be from the date of the judgment. Article 29, p. 408, Code of 1857.
+This Code contains various provisions with respect to sales by constables, who are the executive officers for justices of the peace provided by law, and for the execution and return of executions, and payment of the proceeds by constables, which relate exclusively to executions issued by justices of the peace, Code of 1857, article 177, p. 135, to article 182, which shows that under the Code of 1857 an effort was i;iade to provide a complete set of rules applicable to the judgments and executions of justices of the peace, and that resort must be had to these regulations to ascertain, the effect of such judgments and executions, and that regulations, adopted for other courts are not to be applied to the judgments and executions of justices of the" peace, except where in the nature of things or from a proper construction they are plainly applicable. The acts in relation to justices of the peace contained in the Code of 1857 were transferred nearly entire to the Code of 1871. Article 20, p. 408, of the former Code, was changed by section 1318 of the latter, so as to declare that “all judgments rendered by justices of the peace shall operate as a lien * * * ; provided, that an abstract of the judgment shall be filed with the clerk of the Circuit Court of the county wherein the property is situated, and entered upon the judgment roll * * * ; said lien to commence from the date of the enrollment,” etc.
+Manifestly, we think it was the legislative purpose to make judgments by justices of the peace liens from the date of enrollment, and that executions should not be liens at all.
+From its history, association and position, and from the specific regulations applicable to the judgments rendered, and executions issued by justices of the peace, indicating a design to provide a complete system for that class of remedies, we conclude that section 841 of the Code of 1871 has no application to them. It follows from these views that the plaintiff in the execution did not acquire a lien on the mule by delivering the execution to the officer, and that when McGehee & Pope purchased the mule it was not bound by a lien in favor of Field.
+Fortunately, the question here discussed, beyond the decision of this case, has ceased to be of practical importance, since under the Code of 1880 executions, where there is no judgment lien, bind property only from the levy of the execution. It seems ¡strange that the law should ever have been different.
+Judgment reversed, and cause remanded for a mew trial.
