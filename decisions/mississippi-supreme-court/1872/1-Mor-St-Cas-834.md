@@ -1,0 +1,29 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1872"
+citations: ["1 Mor. St. Cas. 834", "30 Miss. 619"]
+reporter: "mor-st-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Staten v. The State,"]
+source_url: "https://static.case.law/mor-st-cas/1/cases/0834-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12144299
+cites_cases: ["26 Miss., 383", "8 S. & M., 417"]
+---
+
+# Staten v. State
+
+## Majority (HaNdt, J.: Fishek, J.,)
+
+HaNdt, J.:
+This was an indictment found in the Tallahatchie circuit court, against the plaintiff in error, for murder. At the instance of the accused, the venue was changed to Yalobusha circuit court, where be was tried, and found guilty of manslaughter in the second degree, and judgment rendered. The case was thereupon brought to this court and the judgment reversed, and a new trial awarded. Upon this trial a verdict was again found against the plaintiif in error, of guilty of manslaughter in the second degree, and judgment rendered thereon. To this judgment, the present writ of error is prosecuted.
+Several questions have been presented in the argument by the counsel for the plaintiif in error, as grounds of error in the proceedings below. These questions are important, and not free from difficulty ; and in all probability, the two members of the court sitting in the cause, would not agree in opinion upon them, and no decision would be made upon them. We, therefore, deem it proper to present no views in relation to those points, but will proceed to consider a material point, which is decisive of the case as it is now presented.
+The court instructed the jury, at the instance of the state, as follows:
+“If the jury believe, from the evidence, that the defendant killed the deceased at a time when them was no danger from the deceased to the defendant’s family, or sister, and upon revenge for a supposed insult to his family, in the heat of blood, this is at least manslaughter.
+“ If the jury believe, from the evidence, that Hamblin was unarmed at the time the defendant killed him, and there was no real or apparent danger from him at the time of killing, either to Staten himself, or to his wife or sister, or family, then the killing is neither justifiable nor excusable.”
+Without a particular detail of the evidence, and of the circumstances under -which the killing was done, it is sufficient for the purpose of testing the propriety of these instructions, to observe, that there was testimony tending to show that the deceased had entered the bed-chamber in which the wife of the accused (she being sick at the time), and his sister were asleep, and after midnight; that he aroused the sister by putting his hand on her ; that she told him to go away, and that he went under Mrs. Staten’s bed, which was in the same room ; that after a short time, she went into the room where Staten was sleeping, and awoke him, and told him that the deceased was in his wife’s room, and he arose and went immediately into his wife’s room, and a noise like the falling over chairs was heard; and that shortly afterwards the deceased was seen bleeding, and lived but a short time, being stabbed in several places. There is also evidence tending to show that the deceased took supper that night at Staten’s house, and was there after supper, and in the room where Staten’s wife was, in company with Staten; but that Staten supposed he had gone home, when he was informed by his sister that he was in his wife’s room.
+The statute provides that homicide is justifiable “ when committed in the lawful defense of a person, or of his or her husband, wife, parent, child, master, mistress or servant, when there shall be a reasonable ground to apprehend a design to commit, a felony, or to do some great personal injury, and there shall be imminent danger of such design being accomplished.” Hutch. Code, 957.
+The instructions above stated do not declare the rule in conformity to this statute. If the accused had a “ reasonable ground to apprehend a design to commit a felony, or to do some great personal injury to his wife, and there was imminent danger of the design being accomplished,” he was justifiable in the killing. But the instructions do not give the accused the benefit of the apprehension of danger, in the particulars specified in the statute ; and the jury were left free to, put whatever construction they deemed proper upon the general terms, “ da/nger to himself or his wife,” etc. They might have supposed that it required danger to life, in order to justify the killing, and hence concluded that, as there was no evidence of such danger, the killing was unjustifiable; whereas the statute distinctly recognizes a just apprehension of immediate da/nger of the commission of a felony, or of some great personal injury or J/odily harm, as a justification. The plaintiff in error was entitled to have the rule thus distinctly declared to the jury; and for the error in this respect in the instructions, the judgment is reversed, and, the cause remanded, and a new trial awarded.
+Fishek, J.,
+having been of counsel in the court below, took no part in the decision of the cause.
