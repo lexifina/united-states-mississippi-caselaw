@@ -1,0 +1,29 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1872"
+citations: ["1 Mor. St. Cas. 422", "12 Smedes & M. 58"]
+reporter: "mor-st-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Williams v. The State,"]
+source_url: "https://static.case.law/mor-st-cas/1/cases/0422-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12134807
+cites_cases: ["12 Wend., 547"]
+---
+
+# Williams v. State
+
+## Majority (Thacher, J.:)
+
+Thacher, J.:
+This is an indictment framed under the act of February, 1839, entitled, “ An act farther to discourage and suppress gaming.” Hutch. Code, 951, Art. 11.
+The indictment charges that Daniel O. Williams did wager and bet with, and against one Sidney S. Erwin, the sum of two hundred dollars, upon the result of an election of a president of the United States of America, had and held on the first Wednesday in the month of December, a. d. 1844.
+The evidence of Samuel H. Charles, established that some weeks previous to said election, he was requested by Williams to efiect a bet for him with said Erwin, on the result of said election; that he afterwards received from said Williams four United States treasury notes, each of the denomination of fifty dollars, which, after arranging the terms of the bet with said Erwin, together with two hundred dollars supplied by said Erwin, were placed in the hands of a third person; that the said presidential election did occur, as charged in the indictment, the result was made known, and that Williams did receive back his said treasury notes, together with the said two hundred dollars supplied by said Erwin.
+The act under which this indictment was framed, runs against any person who “ shall wager or bet, or promote or encourage the wagering, or betting of any money, or other valuable thing, upon any cock-fight, or duel, or upon the result of any election of any kind whatever.”
+The conviction in this case is claimed to be illegal and erroneous for various reasons.
+In the first place, it is contended that the evidence establishes that Williams did not himself malee the bet, but procured it to be done for him by another, which should relieve him from this indictment. It is not necessary that a person to be guilty as principal, should perpetrate an offense with his own hands, for, if it be committed through the medium of an innocent agent, the employer, though absent when the act is done, is answerable as a principal; and if the agent be aware of the consequences of the act, and answerable for it, he becomes a principal in the first degree, and the employer an accessory before the fact. Such is the law in the commission of felonies; but, as in all offenses below the degree of felony, there can be no accessories, either before or after the fact; those, therefore, who, in felonies, would be accessories before the fact, are, in respect to offenses below that degree, principals, and must be proceeded against as such. This rule holds in regard to the highest and lowest of such offenses. 4 Black. Com., 36 ; 1 Hale, 616.
+It is also insisted, that it is not competent to establish the result of the said presidential election by parol evidence. This point is not, we think, well taken, for various reasons, and among others, because such a matter of great public interest is universally known throughout the land, and can, therefore, be proved or disproved with absolute certainty by parol proof.
+It is likewise relied upon, however, that, while the indictment charges a bet of money to the amount of two hundred dollars, the evidence shows the bet upon the part of Williams to have been four United States treasury notes, each of the denomination of fifty dollars, and it is insisted, that in this particular the probatum does not correspond with the allegatum. This point we deem to be well taken. In legal acceptation, such notes are not money, and even if the indictment had charged the bet to have been made with them, as valuable things, their value must have been proved, to have warranted a conviction. 1 Nott & McCord, 9 ; 12 Wend., 547; 2 Leach, 1036, 1090; 2 Car. Law Rep., 269.
+As upon this latter principle the instructions of the circuit court to the jury held a different doctrine, we accordingly reverse the judgment, and direct a new trial to be had in the case.
+Judgment reversed, and a new trial awarded.
