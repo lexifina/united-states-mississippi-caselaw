@@ -1,7 +1,8 @@
 ---
 court: "Mississippi Supreme Court"
 decided: "1872"
-citations: ["1 Mor. St. Cas. 893", "31 Miss. 480", "1 Mor. St. Cas. 430", "13 Smedes & M. 189", "2 Mor. St. Cas. 1037", "33 Miss. Rep., 347"]
+decided_precision: "year"
+citations: ["1 Mor. St. Cas. 893", "31 Miss. 480"]
 reporter: "mor-st-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Sam v. The State,"]
 source_url: "https://static.case.law/mor-st-cas/1/cases/0893-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12145215
-cites_cases: ["1 Bay., 380", "1 Hayw., 524", "1 Leigh, 598", "10 S. & M., 25", "10 S. & M., 30", "13 S. & M., 189", "13 S. & M., 500", "19 Ohio, 198", "2 Dev., 543", "3 Humph., 376", "3 S. & M. 524", "31 Miss., 504", "5 Rand., 655", "7 Watts & Serg., 421", "9 Dana, 203", "9 S. & M., 119", "9 Yerg., 193"]
+cites_cases: ["1 Bay., 380", "1 Leigh, 598", "10 S. & M., 25", "13 S. & M., 189", "13 S. & M., 500", "19 Ohio, 198", "31 Miss., 504", "5 Rand., 655", "7 Watts & Serg., 421", "9 Dana, 203"]
 ---
 
 # Sam v. State
