@@ -1,7 +1,8 @@
 ---
 court: "Mississippi Supreme Court"
 decided: "1872"
-citations: ["1 Mor. St. Cas. 948", "32 Miss. 405", "2 Mor. St. Cas. 1100", "36 Miss. R., 77"]
+decided_precision: "year"
+citations: ["1 Mor. St. Cas. 948", "32 Miss. 405"]
 reporter: "mor-st-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["Mask et al v. The State,"]
 source_url: "https://static.case.law/mor-st-cas/1/cases/0948-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12146062
-cites_cases: ["1 How., 315", "10 S. & M., 25", "11 Pick., 273", "12 S. & M. 669", "12 Wheat., 480", "13 S. & M., 532", "16 Serg. &Rawle, 77", "17 Pick., 490", "17 Pick., 499", "2 Wend., 285", "2 Wend., 483", "3 How., 101", "3 How., 429", "3 Wash. C. C. Rep., 580", "4 How., 216", "4 How., 326", "4 How., 90", "4 Mass R., 396", "4 S. & M., 118", "4 S. & M., 193", "5 Mass., 336", "7 Cow., 283", "8 Watts & Serg., 172", "81 Miss. Rep., 490", "9 S. & M., 284"]
+cites_cases: ["1 How., 315", "11 Pick., 273", "12 Wheat., 480", "16 Serg. &Rawle, 77", "17 Pick., 490", "17 Pick., 499", "2 Wend., 285", "2 Wend., 483", "3 How., 101", "3 How., 429", "3 Wash. C. C. Rep., 580", "4 How., 216", "4 How., 326", "4 How., 90", "5 Mass., 336", "7 Cow., 283", "8 Watts & Serg., 172", "81 Miss. Rep., 490", "9 S. & M., 284"]
 ---
 
 # Mask v. State
