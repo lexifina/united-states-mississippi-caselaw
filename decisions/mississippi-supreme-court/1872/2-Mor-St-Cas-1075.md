@@ -1,0 +1,32 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1872"
+citations: ["2 Mor. St. Cas. 1075", "34 Miss. R., 602"]
+reporter: "mor-st-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Beason v. State,"]
+source_url: "https://static.case.law/mor-st-cas/2/cases/1075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1829567
+cites_cases: ["2 Bay, 155", "2 Blackf., 114"]
+---
+
+# Beason v. State
+
+## Majority (Handy, J.:)
+
+Handy, J.:
+This was an indictment for playing at a game of hazard for money, contrary to the statute, to which the defendants pleaded in abatement that Samuel White, Jr., one of the members composing the grand jury by whom the indictment was found, was not, at the time the bill was found, an inhabitant and citizen of the county in which it was found, but was in fact then a citizen of the state of Louisiana. Hpon this the state took issue, and a trial was had thereupon, which resulted in a verdict for the state.
+The ease is brought up upon several bills of exception taken to the rulings of the court during the trial, and in overruling a motion for a new trial; and upon this several grounds of error are insisted upon, which will be noticed in the order in which they appear in the record.
+The first error - assigned is in the ruling of the court that the proof of the affirmative of the issue joined was upon the state. This was manifestly correct. The plea denied the material fact upon which the validity of the indictment depended, that one of the grand jurors was a resident of the county, and upon that denial the state took issue. It was, therefore, upon the state to establish the fact denied, and which was material to sustain the indictment.
+The next objection is taken to the court’s overruling- of the defendant’s challenge of John Moore, one of the jurors who tried the issue. That juror was challenged by the defendants on the ground that he had been a member of the grand jury by whom the indictment was found, but the challenge was not allowed.
+It has always been considered good cause of challenge that a juror was under any bias, and upon that principle it is laid down as good ground of objection to a juror that he was formerly a juror in the same cause. 3 Bl. Com., 363. By reason of the bias which must be presumed to exist in his mind under such circumstances, he cannot be altogether free and impartial to try the issue. And the reason of this rule is applicable in all its force to grand jurors who had participated in finding the indictment and were afterwards called to sit as jurors upon the trial; for such a juror would naturally take his seat upon the jury to try the issue with the impression, if not with the decided bias of mind, that the indictment was just and true, and should be sustained; and accordingly it has been considered a good cause of challenge of a juror that he was a member of the grand jury who found.the indictment. State v. O’Driscoll, 2 Bay, 155; Barlow v. State, 2 Blackf., 114. There was error, therefore, in overruling the challenge of this juror, and in permitting him to sit upon the trial.
+The next objection applies to the instructions given to the jury at the instance of the state, and in the refusal of those asked in behalf of the defendants. There appears to be no error in those given in behalf of the state. The rules applicable to the issue are clearly and correctly stated, so as to enable the jury to determine the question submitted to them upon proper principles.
+The first instruction ashed in behalf of the defendant is, “ That before a man can be put upon his trial by a petit jury, an indictment must be presented against him by a grand jury above all exceptions, of his own county; and this is a constitutional right of which every man has the right to avail himself.”
+This instruction appears to have no particular application to the issue before the jury, which was, whether a particular member of the grand jury was a resident of the county when the indictment was found. It was not calculated to direct the jury as to any practical point or principle necessary in determining the issue, and it was, therefore, irrelevant, and properly refused.
+The other instruction is, “ That if the jury believe, from the evidence, that the grand juror, White, went to New Orleans with the open and avowed intention of remaining there if he could get business, and did actually get a situation, and entered upon his business there, before the last term of the court, then there was a change of his domicile, and they should find for the defendants.”
+The point of this instruction depends upon the fact of the juror going to New Orleans, with the open and avowed intention of remaining there if he could get into business; and if he did get into business, that that was conclusive of his change of residence. But the true question was, not what he declared to be his intention — for, though such declarations were competent evidence, they were not conclusive of his real intention — but ■what was his real intention in going to New Orleans. It is plain that he might have declared his intention of becoming a resident there upon obtaining business, and yet afterwards have changed his mind, and not really have intended to become a resident of New Orleans, when he entered upon business there. So that the minds of the jury should have been directed to the fact, what was his intention, as to residence, when he entered into business in New Orleans, and not what he had previously declared as to his intention. In this respect, the instruction is erroneous, and was properly refused. The instruction was also unnecessary, because the rule upon the point had already been stated in the fifth instruction given at the instance of the state, which stated the rule as favorably to the defendants as was proper.
+It is also objected that the verdict was contrary to the evidence, and, therefore, that a new trial should have been granted. We deem it unnecessary to consider this point, as the case will go back for a new trial, and it is not proper that we should express an opinion, which might have an effect upon the trial of the issue.
+An objection is also here taken to the organization of the grand jury. But as that objection was not made in the court below, it cannot be noticed here.
+For the error above stated the judgment is reversed, and the cause remanded for a new trial.
