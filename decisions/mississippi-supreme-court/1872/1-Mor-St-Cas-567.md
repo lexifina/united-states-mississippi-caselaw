@@ -1,7 +1,8 @@
 ---
 court: "Mississippi Supreme Court"
 decided: "1872"
-citations: ["1 Mor. St. Cas. 567", "23 Miss. 477", "1 Mor. St. Cas. 638", "25 Miss. 203"]
+decided_precision: "year"
+citations: ["1 Mor. St. Cas. 567", "23 Miss. 477"]
 reporter: "mor-st-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["The State v. Borroum et al.,"]
 source_url: "https://static.case.law/mor-st-cas/1/cases/0567-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12139313
-cites_cases: ["1 How., 139", "1 Verm., 331", "12 Wheat., 460", "13 S. & M., 264", "2 Cush., 153", "2 Humph., 78", "3 Edw. 6", "3 McCord, 442", "5 Blackf., 548", "5 How., 245", "9 Gall., 15"]
+cites_cases: ["1 Verm., 331", "12 Wheat., 460", "13 S. & M., 264", "2 Humph., 78", "3 Edw. 6", "3 McCord, 442", "5 Blackf., 548", "5 How., 245", "9 Gall., 15"]
 ---
 
 # State v. Borroum
