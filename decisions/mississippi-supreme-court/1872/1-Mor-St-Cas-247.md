@@ -1,0 +1,21 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1872"
+citations: ["1 Mor. St. Cas. 247", "3 Smedes & M. 751"]
+reporter: "mor-st-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State v. Anderson,"]
+source_url: "https://static.case.law/mor-st-cas/1/cases/0247-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12129172
+---
+
+# State v. Anderson
+
+## Majority (Thachee, J.:)
+
+Thachee, J.:
+This is an application made by the district attorney of the 7th judicial district, for a writ of error in behalf of the state, in a state prosecution.
+Our statutes do not expressly grant the state a writ of error in criminal prosecutions, after a verdict of a jury and judgment of acquittal, nor has such been the practice in this state. Any such practice would seem to contravene that provision of the constitution, art. 1, § 13, which provides that “No person shall for the same oifense be twice put in jeopardy of life or limb.” Upon the plea of “ not guilty,” the accused puts himself upon the country for his deliverance, and when so found by a jury, it must be considered to be final. No new trial can be granted by our laws, after such a result, which is the only judgment which could be made upon a writ of error. The adoption of the practice of permitting the state writs of error in criminal prosecutions, would work a vexatious hardship that is repugnant to the principles of criminal justice. 6 Yerger, 360; The State v. Solomons. Besides, the statute, H. & H., 725, § 20, which provided that when a defendant' shall have been acquitted on trial, on the merits and facts, he may plead such an acquittal in bar of any subsequent accusation of the same oifense, taken in connection with another provision of the same statute, H. & H., 725, § 19, which provides that when a defendant shall have been acquitted of a criminal charge upon trial, on the ground of a variance between the indictment and the proof, or upon an exception to the form or substance of the indictment, he may be tried and convicted upon a subsequent indictment for the same offense, affords, not only the defendant a complete protection from the vexation of a writ of error in favor of the state, but also gives the state an ample remedy by re-indictment, when the defendant escapes justice by any informality of the proceedings, and without a trial upon the merits of the case.
+The application is therefore overruled.
