@@ -1,0 +1,25 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1872"
+citations: ["2 Mor. St. Cas. 1526", "41 Miss. R., 582", "2 Mor. St. Cas. 1068", "33 Miss. R., p. 382", "1 Mor. St. Cas. 810", "30 Miss. 408"]
+reporter: "mor-st-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jenkins v. State,"]
+source_url: "https://static.case.law/mor-st-cas/2/cases/1526-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1829562
+cites_cases: ["26 Miss., 157", "32 Miss., 433", "33 Miss., 347"]
+---
+
+# Jenkins v. State
+
+## Majority (Ellett, J.:)
+
+Ellett, J.:
+■ The indictment in this case contains two counts — first, for the larceny of a mule of the value of $175; and, second, for receiving a mule of like value, knowing it to have been stolen. The offense is charged to have been committed on the sixth day of February, 1866, and the indictment was found at September term, 1866. The accused was found guilty, and the value of the mule assessed at $100. The sentence was three years’ imprisonment in the penitentiary.
+' • There was no evidence given, except of the confessions of the accused, who was proved to have confessed having received the mule, knowing it to have been stolen, and having delivered it to another person “ to put it through; ” but there was no other evidence of the larceny besides the confession.
+It is assigned for error that the court refused to charge the jury that the extra-judicial confessions of the accused are not sufficient to prove the corpus delicti, and that the fact of the larceny must be proved otherwise than by the confessions of the accused.
+That this instruction ought to have been given is settled by the case of Stringfellow v. The State, 26 Miss., 157; Brown v. The State, 32 Miss., 433; and Same v. The State, 33 Miss., 347.
+No judgment could properly be given on the verdict in this ease. The accused was convicted generally on both counts of the indictment; but the jury having found the value of the property to be $100, it follows that the conviction on the first count was for a misdemeanor (act November 24, 1865, p. 75, § 20), and on the second count for a felony, the value of the property in cases against receivers of stolen property not being material. It was impossible, therefore, for the court to know what judgment to render.
+The judgment will, therefore, be reversed, and the cause remanded for a new trial.
