@@ -1,0 +1,23 @@
+---
+court: "High Court of Errors and Appeals of Mississippi"
+decided: "1839-12"
+citations: ["4 Howard 42", "5 Miss. 42"]
+reporter: "miss"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carter, Appellant, v. Spencer."]
+source_url: "https://static.case.law/miss/5/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1627956
+---
+
+# Carter v. Spencer
+
+## Majority (Mr. Chief Justice Sharkey)
+
+Mr. Chief Justice Sharkey
+delivered the opinion of the court.
+The legal title is unquestionably with the defendant. A patent is the highest evidence of title; it is evidence that all prerequisites have been complied with, and cannot be questioned either in a court-of law or equity, unless it be on the ground of fraud or mistake.
+The legal title being with the defendant, it devolves on the complainant to shew that it was obtained in fraud of his rights. -There is no proof whatever which can be deemed sufficient to establish fraud, nor was the entry such as to raise a presumption of fraud. The act under which complainant claims is very indefinite: it merely provided that actual settlers, being house keepers, should have a right of pre-emption to enter within six months, a half quarter section, to include his improvements, under such regulations as had been or might be prescribed by the secretary of the treasury. Under this act the secretary prescribed rules and regulations by which' individuals claiming under it, should be governed. The claimant was required to make proof by his own affidavit, supported by the affidavit of a disinterested person, that he was an actual house keeper and settler on the land. Another rule was that the right conferred by the act was not to interfere with public sales or private entries. And in order to prevent confusion, an applicant for private entry, was required to swear that the land designed to he entered was not subject to a right of pre-emption. In the violation of this last mentioned rule it is said the fraud was perpetrated, but this position is not supported by proof. It is alleged in the bill, that Spencer entered without making this affidavit. This is admitted by the answer, which avers also, that no such affidavit was required of him by the register, in addition to which the entry without it, is evidence that it was dispensed with by the register. If therefore he chose to permit an entry without the affidavit, this in itself is not evidence of fraud. It was a mere instruction which required the affidavit, the'law did not require it. By the general law, the land was subject to entry by any person who should apply for it, and by the second instruction given, that right was not to be interfered with. But if the instruction was violated, it was done by the register, and not by Spencer. No concealment, evasion or trick is fixed on Spencer, and in the absence of such proof there can be no ground for the interference of a court of chancery.
+But there are other considerations which must be regarded as prejudicial to the complainant. We are told in the argument that the complainant’s house was placed where the lines of four different sections intersect, or in other words, over the corner. That in December, 1831, he made a private entry in section 14, and in June, 1832, after his right of pre-emption had been given, he entered in section 11, adjoining the land claimed, which last entry also covered part of his improvement, His right of pre-emption was as good to that part of section 11, as it was to section 12; perhaps it was better. There is another rule prescribed by the secretary of the treasury directly in point; it is that when a settlement was made on the corners of sections, the pre-emption should be confined to that section in which most of the improvement had been made.. Carter has stated that one third of his improvement was in section 12; where was the other two thirds? It was, says the bill, on adjoining lands around him. His right of pre-emption accrued on the 5th day of April, to that, eighth of land in which he had made the greatest improvement; and it was essential that this should have been made known,, and yet we find that his affidavit to the register conceals it; his bill conceals it, and whether by design or accident, it gives an unfavorable aspect to the case. If the most of his improvement was in section 11, his right of preemption was there,, and he could not transfer it by entering that eighth, and then claiming another. But when he entered, he had availed himself of all the benefit the law intended for him, for a right of pre-emption, is but a right to buy.
+The decree of the chancellor must be affirmed.
