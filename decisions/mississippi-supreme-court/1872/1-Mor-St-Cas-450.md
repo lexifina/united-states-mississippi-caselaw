@@ -1,0 +1,26 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1872"
+decided_precision: "year"
+citations: ["1 Mor. St. Cas. 450", "13 Smedes & M. 223"]
+reporter: "mor-st-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jolly v. The State,"]
+source_url: "https://static.case.law/mor-st-cas/1/cases/0450-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12135412
+cites_cases: ["1 Blackf., 205", "1 Hawks, 210", "10 Minn., 223", "15 Ga., 223", "2 Hawks, 210", "3 Humph., 493", "38 Mo., 270", "5 Yerg., 453", "6 Cal., 96", "8 Cal., 435", "9 Cranch, 333", "9 Metc., 93"]
+---
+
+# Jolly v. State
+
+## Majority (Sharkey, C. J.:)
+
+Sharkey, C. J.:
+The prisoner was indicted for murder, committed on tbe body of a slave called Jim, tbe property of John L. Downs. He was convicted of manslaughter in the fourth degree, and sentenced to two years’ imprisonment in the penitentiary. An exception was taken during the progress of the trial, to the rejection of evidence, and on this point alone the case musí turn; for, although a motion was made for a new trial because the verdict was contrary to evidence, yet there is nothing in that ground which could justify a reversal of the judgment.
+Thomas Woodsides was introduced as a witness for the prisoner, and asked, “ if the boy Jim, previous to his death, was insolent and impudent to white persons.” An objection was made to this question, which was sustained, and the witness was not permitted to answer. The propriety of this decision is the question to be determined.
+The general rule is, that no words of reproach, or provoking or insulting language, or actions short of an assault, will furnish a sufficient excuse for a homicide, even when spoken or committed at the time of the killing; and much less will a general insolent or insulting habit excuse the killing of the person addicted to such habit. When the manner of the homicide is not fully shown, a known character for violence of temper, and dangerous desperation in the deceased, may serve to raise a presumption in favor of the prisoner; but in this instance, there was no effort to prove that the negro was dangerous. His general character for insolence could not have furnished an excuse. Such character will not justify the killing of a negro. We need not pass on the effect of insolent language used by a negro, at the time the killing occurs, as no such question is raised; there is no evidence that the negro was even insolent at the time he was killed. Nor was there any such act of violence, on the part of the negro, as to jeopardize the safety of the accused, or to show a violent character in the negro.
+The case of the State v. Tackett, 1 Hawks, 210, is relied on, as an authority for reversing the judgment. The defendant in that case was convicted of murder, and the manner of the commission of the homicide, or the circumstances attending its commission, were not fully shown, the evidence being only circumstantial. The prisoner offered to prove, that the deceased was a turbulent man, and that he was insolent and impudent to white people. The court held, that this testimony should have been admitted, because, said the court, “ it might, in connection with the threats, quarrels, and existing causes of resentment, he had against the prisoner, increase the probability, that the latter had acted under a strong and legal provocation.” There had been several quarrels, and even a fight, between the prisoner and the deceased, and besides, there was proof of threats made against the life of the prisoner by the deceased; and it was only in connection with these circumstances, that the court held the evidence admissible. The circumstances attending the homicide were moreover unexplained, and hence it was deemed proper, that the evidence should have been admitted, because from it the jury might indulge a presumption favorable to the prisoner. But, in this case, the circumstances are wholly different; the manner of committing the homicide is fully explained, and there had been no previous threats or quarrels, between the deceased and the accused. There was no ground for the jury to draw an inference, that the deceased, by insolence, provoked the commission of the act. The record before us propounds this question in effect: Is it competent, on a trial for murder of a slave, to prove, that the slave was generally insolent and impudent to white persons, although he was not so, at the time of his death, to the individual who caused it? We respond in the negative, and it follows, that the court was right in excluding the evidence.
+Judgment affirmed.
+Wharton on Homicide, 168; Keling, 135; 1 Hale, 466; Foster Cr. Law, 290; U. S. V. Travers, 2 Wheeler’s Cr. Cases, 504; Commonwealth v. York, 9 Metc., 93; State v. Tacket, 1 Hawks., 210; Allen v. State, 5 Yerg., 453; Jacobs v. State, 3 Humph., 493; King v. Commonwealth, 2 Va. Cases, 98; Wharton Am. Cr. Law, 970; 1 Hale P. C., 456; U. S. v. Wiltberger, 2 Wash. C. C. R., 515; Rex v. Campbell, 4 Boston Law R., 131; State v. Merrill, 2 Devor, 269; Ray v. State, 15 Ga., 223; Rapp v. State, 14 B. Monroe, 614; People v. Freeland, 6 Cal., 96; State v. Starr, 38 Mo., 270; People v. Butler, 8 Cal., 435; State v. Shippey, 10 Minn., 223.
