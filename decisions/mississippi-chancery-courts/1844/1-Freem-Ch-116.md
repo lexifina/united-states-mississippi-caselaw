@@ -1,0 +1,27 @@
+---
+court: "Mississippi Chancery Courts"
+decided: "1844"
+citations: ["1 Freem. Ch. 116"]
+reporter: "freem-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alexander G. McNutt v. Wilcox and Fearne."]
+source_url: "https://static.case.law/freem-ch/1/cases/0116-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8830566
+cites_cases: ["1 Cow. 46"]
+---
+
+# McNutt v. Wilcox
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+There are two judgments at law on the same note; one against Mitchell, and the other against the complainant, a,s his indorser. McNutt enjoined the judgment against him, alleging that a levy had been made upon the property of Mitchell, who gave a forthcoming bond, which was forfeited, and that a new execution issued thereon, which was levied on twenty one negroes that were unincumbered, and sufficient to pay and satisfy the debt.
+The answer of one of the defendants (Wilcox) admits the note, judgments, executions, levies, &c., and states that he does not know any thing about the title to the negroes, nor whether they were sufficient to pay the debt or not. The sheriff returned, “Received $16,334 in the notes of the Citizens’ Bank of Madison County, ready to be paid if the plaintiff would take them.”
+The defendants insist that the levy on Mitchell’s property is not a satisfaction, and that nothing but an actual satisfaction of the debt itself can discharge McNutt, and then not as to the damages on the affirmance; that they have a right to pursue both judgments until there is a final satisfaction of the one or the other; that McNutt became a principal by reason of the judgment against him.
+In case of Lennox v. Prout, 3 Wheaton, 525, the Supreme Court of the United States decided, that after the holder of a note had fixed an accommodation indorser with notice, and proceeded against him to judgment, he became a principal, and was not entitled to the aid of a court of equity as a surety.
+The only question then, in this case is, whether the levy upon Mitchell’s property, and the steps in connection with it, amount to a satisfaction of the debt against Mitchell; if so, it amounts to a satisfaction of the judgment against McNutt. The general rule, that a levy is a prima facie satisfaction of the execution as between the immediate parties to it, is recognized by all the books, and seems to be admitted by the defendants in this case. But it is only presumptive evidence as between the immediate parties themselves, and if the levy afterwards proves insufficient, that presumption fails. I can find no case, where upon separate judgments rendered against two or more persons upon the same liability, it has been held that a levy upon the property of one, would amount to a discharge of the judgment against the others. On the contrary, it has been distinctly held, that nothing but an actual satisfaction in the one, would operate a discharge in the others.
+In the case of Dikes v. Mercer, quoted in 2 Ld. Raymond from 2 Showers, where there was a judgment against one of the several obligors, a fieri facias and seizure of property to the value returned, but not sold, nor the money paid, this was pleaded to an action brought against the other obligor, and it was held that it was no bar to the action, and that nothing but actual satisfaction would discharge the second obligor.
+I fully approve of its reasoning and recognize the principle of that case. It remains then to be seen whether the pleadings and exhibits in this case show an actual satisfaction of the judgment or execution against Mitchell, and upon this feature of the case I confess I have had some difficulty in arriving at a satisfactory conclusion. The venditioni exponas, a copy of which is made an exhibit in the answer, leaves it extremely doubtful as to what action was had under that process. There is nothing on it, nor any return by which it appears whether the property mentioned in it was sold or not; there is the simple indorsement that he “received $16,334 in the notes of the Citizen’s Bank of Madison county, which he is ready to pay over, if the plaintiff will take it,” without stating from whom the notes were received, whether in satisfaction by sale of the property, or in any other way. Bank notes of the Citizen’s Bank of Madison county may have been intended, but this is an intendment which the court cannot make; the sentence being in itself intelligible, plain and unambiguous, without such intendment. Suppose then these notes were received in satisfaction of the judgment, which however does not appear, would they amount to a legal satisfaction? In the case of the Bank of Orange County v. Wakeman, in 1 Cow. 46, where the sheriff took the defendant’s negotiable promissory note, gave a receipt in full, and returned the execution satisfied, the court held .that the sheriff having acted without any legal authority, the plaintiff was not bound by the proceedings, and that it could not for that reason operate as satisfaction, — placing’ the decision expressly upon the ground that such a course on the part of the sheriff was not within the regular and legal course of his duty. This case is, I apprehend, decisive in the present motion. Even if the judgment against Mitchell had been actually satisfied, it would constitute no ground for enjoining the judgment against McNutt/so far I mean as the costs and damages in the suit against him are concerned.
+The injunction must be dissolved, but without damages.
