@@ -1,7 +1,8 @@
 ---
 court: "Mississippi Supreme Court"
 decided: "1872"
-citations: ["1 Mor. St. Cas. 329", "8 Smedes & M. 145", "1 Mor. St. Cas. 450", "13 Smedes & M. 223"]
+decided_precision: "year"
+citations: ["1 Mor. St. Cas. 329", "8 Smedes & M. 145"]
 reporter: "mor-st-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["Jolly v. The State,"]
 source_url: "https://static.case.law/mor-st-cas/1/cases/0329-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12131457
-cites_cases: ["1 Blackf., 205", "1 Hawks, 210", "10 Minn., 223", "15 Ga., 223", "2 Hawks, 210", "3 Humph., 493", "38 Mo., 270", "5 Yerg., 453", "6 Cal., 96", "8 Cal., 435", "9 Cranch, 333", "9 Metc., 93"]
 ---
 
 # Jolly v. State
