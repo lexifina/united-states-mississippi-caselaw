@@ -1,0 +1,41 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1872"
+citations: ["2 Mor. St. Cas. 1527", "41 Miss. R., 680"]
+reporter: "mor-st-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wharton v. State,"]
+source_url: "https://static.case.law/mor-st-cas/2/cases/1527-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1829605
+cites_cases: ["1 S. & M., 163", "1 Wharton, 279", "24 Miss., 256", "5 Denio, 97"]
+---
+
+# Wharton v. State
+
+## Majority (Shackelford, C. J.:)
+
+Shackelford, C. J.:
+The plaintiff in error was indicted for grand larceny, tried and convicted at the May term, 1867, of the Hinds circuit court for the first district.
+• The record shows the verdict of the jury, finding the plaintiff in error guilty.
+The writing on the minutes, after stating the verdict of the jury, proceeds as follows:
+“ The State of Mississippi v. Prank Wharton, freedman. The defendant having been found guilty of the crime of grand larceny at the present term of this court, is now brought to the bar of the court to hear his sentence. It is therefore ordered by the court that the said defendant be sentenced to imprisonment in the penitentiary at Jackson, in said state, for and during the term of-years, and that said imprisonment commence from the 22d of May, 1867,” &c.
+There was a motion for a new trial, which was overruled by the court.
+Exceptions taken to the ruling of the court in refusing plaintiffs in error a new trial.
+Hence the case is brought to this court by writ of error.
+There are a number of assignments of error; we shall only notice the last,' which is as follows:
+“ The judgment and sentence of the court is erroneous, because no term of imprisonment is fixed.”
+Counsel for plaintiff in error contends that the judgment being erroneous, there being no time fixed in the sentence, the judgment must be reversed, and the term having elapsed at which he was convicted, the case cannot be remanded to the court below, to have plaintiff in error sentenced nunc pro tunc• therefore he must be discharged.
+In support of these positions, counsel cites the court to the case of Key v. Ellis, 5 Barn. & Cress., p. 395, 2 Lead. Cr. Cases, 372.
+In this case the defendant was convicted of larceny, which was punishable by the statute of 1 Geo. I, ch. 11, with transportation for seven years.
+The court awarded sentence for fourteen years’ transportation.
+On error it was held that the appellate court could not render a new judgment, nor remand the cause to the court below for a new judgment, and discharged the prisoner.
+This prisoner was discharged because there was a wrong sentence and judgment.
+In the case of the plaintiff in error, there was no wrong judgment or sentence; he was not sentenced for a longer term than was prescribed by law for the offense of which he was convicted.
+In what purports to be a judgment and sentence, appearing in the record, there is no time fixed for his imprisonment; consequently it is a nullity.
+It is entirely without substance; the most important and only requisite to constitute it a judgment or a sentence is wanting— the penalty prescribed by law for the offense of which plaintiff in error was convicted is omitted. Easterling v. The State, 35 Miss., p. 210.
+The verdict stands in the court below without judgment.
+The plaintiff in error is still in the custody of the law as an unsentenced convict.
+There being no judgment in the case, this court has no jurisdiction of it. A writ of error will not lie when there is no judgment. Porter v. Detterly, 1 S. & M. Rep., 163; 2 ib., p. 27; 3 ib., 588; 11 ib., Loftus v. State, 358.
+. Therefore this cause must be dismissed from this court and remanded to the circuit court of Hinds county for the first district, with instructions to the judge to pronounce the sentence and the judgment of the law upon the verdict of the jury.
