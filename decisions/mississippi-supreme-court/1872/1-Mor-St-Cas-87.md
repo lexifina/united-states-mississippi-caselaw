@@ -1,0 +1,32 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1872"
+citations: ["1 Mor. St. Cas. 87", "1 Howard 262"]
+reporter: "mor-st-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Damewood v. The State,"]
+source_url: "https://static.case.law/mor-st-cas/1/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12123369
+cites_cases: ["1 Mass., 337", "1 Pick., 375", "1 Rob., 691", "3 Hawks, 618"]
+---
+
+# Damewood v. State
+
+## Majority (Smith, J.:)
+
+Smith, J.:
+The indictment upon which the prisoner was tried in the court below contains two counts; the first, for feloniously stealing, taking and carrying away, one leather pocket-book, of the Tal lie of one dollar and fifty cents, and two bank notes on the Planters’ Bank of the State of Mississippi, of the yalue of one hundred dollars each; and the second, for feloniously taking and carrying away one leather pocket-book, of the value of one dollar, and five one hundred-dollar bank notes on the Planters’ Bank of the State of Mississippi, of the value of one hundred dollars each.
+The exception which I shall first notice, is that which is embraced in the first assignment of errors, and necessarily involves in its decisions the question presented by the 4th assignment. This exception presents the question of misjoinder of the counts in the indictment.
+It is stated in the assignment, and was insisted on in the argument at bar, that the first count, if good, is for grand larceny, and the second, if unexceptionable, is for robbery; and the conclusion sought to be deduced is, that, as the crimes of grand larceny and robbery are distinct in their nature, and the character and degrees of punishment affixed to them by the law, it is error to join them in the same indictment. But this exception appears to be based on an erroneous conception of the character of the second count, which is for larceny and not for robbery, as assumed in the exception, and good, if the notes of the Planters’ Bank, by that description, can be the subject-matter of larceny. The omission of the word “ that ” in the second count, does not change its character, or render it defective. It is well settled that the indictment should technically describe the offense of which the party stands charged, and an imperfection in this respect would be fatal.
+The felonious taking and carrying away the mere personal goods and chattels of another with the criminal intent to apply them to the party’s own use, constitutes the crime of larceny, and is its technical definition. It is true that this offense is usually described in the entries by the terms “ feloniously stealing, taking, and carrying away, etc.,” but it is no defect if the word “that” is omitted. See Starke’s Crim. PL, 84; 2 East., 836, 784.
+But were the premises assumed good, the conclusion sought to be established would nevertheless be erroneous. Numerous authorities sustain the propriety of joining, in the same indictment, counts for robbery and larceny. See 1 Hale, 5, 6, 534,-5; 2 East., 736, 754. .
+The validity of the 2d, 3d, 5th, 6th and 8th assignments of error depends upon the solution of the foregoing proposition, and, therefore, need not be separately considered.
+At common law, it is admitted that larceny could not be committed of bank notes, bank bills, or bills of credit. But it is contended that the state has thrown around these objects of property the protection of her laws, and made it, by statute, felony for any person to steal them. Upon the construction of this statute depends the validity of the indictment. The question to be settled is one ‘deeply important to the state, and I regret that I have had neither the time nor means of thorough investigation. The statute referred to, is in the following words, viz.: Bobbery, or simple larceny, of obligations, bonds, bills obligatory, or bills of exchange, promissory notes for the payment of money, or notes for the payment of any specific property, lottery tickets, paper Mils of credit, etc. See Rev. Laws, 299, sec. 20.
+The words “ promissory notes for the payment of money,” and “ paper bills of credit,” are, it is insisted, fairly construed, so as to embrace bank notes of the Planters’ Bank, or of any banking corporation.
+It is a uniform principle in the construction of penal statutes, that they are to be taken in their most restricted sense, in favor of the rights of the accused. Was it, then, the evident intent of this section to make the theft of a bank note the crime of larceny ⅜
+It is unquestionably true that a bank note is a promissory note by a banking corporation to pay a specific sum of money, and comes, therefore, strictly within the meaning of the generic term “promissory note/’ And I am, therefore, impressed with the conviction that, although the statute has not expressly enumerated bank notes, and made them subjects of which larceny could be committed under that description alone, yet as they are in verity promissory notes, possessing all the properties which constitute a promissory note, a count charging the larceny of a promissory note for the payment of money purporting to be a bank note, would be sustained by proof of the felonious taking, etc., of a bank note of the Planters’ Bank; and by a similar decision in the case of the Commonwealth of Yirginia v. Hersley, 2 Yirg. Laws, 153.
+But in the case before us, neither count of the indictment charges the taking of promissory notes for the payment of money, purporting to be a bank note, nor in any respect conforms to the offense created by the 20th section of the act in relation to crimes and misdemeanors. I am, therefore, compelled to regard each count of the indictment as defective. In strict accordance with this opinion, will be found the decision in the case of The King v. .Richard Craven, (2 East. P. C., 601), which was an indictment upon the statute of 2 Geo. 2, C. 25.
+As this defect goes to the foundation of the indictment, I will not notice the other questions arising upon the record.
+The judgment must be reversed and the prisoner discharged.
