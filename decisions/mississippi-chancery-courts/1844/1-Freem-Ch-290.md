@@ -1,0 +1,26 @@
+---
+court: "Mississippi Chancery Courts"
+decided: "1844"
+citations: ["1 Freem. Ch. 290"]
+reporter: "freem-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Juliet Hood et al. v. Nancy Bowman et al."]
+source_url: "https://static.case.law/freem-ch/1/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8831369
+cites_cases: ["1 Bibb. 204", "4 Cranch, 235", "5 Munf. 308"]
+---
+
+# Hood v. Bowman
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+This is a bill for the specific performance of a parol contract for the purchase of land, upon the ground that there has been such part performance as takes it without the operation of the statute of frauds. The principal defendants, who are the minor heirs of the vendor, have answered through their guardian ad litem, without insisting upon the statute, but have simply denied any knowledge of the alleged cqntract, and call on the court to protect their interest. Even if the contract is fully proven, unless the case is otherwise made out, a decree would not necessarily follow for the complainants because of this omission.
+An infant is entitled, under a general answer, to avail himself of any defence against the bill which he might have specially insisted on. The court will not permit the rights of infants to be prejudiced by any omission of their guardian ad litem. Sto. Eq. Pl. 667; Stephens v. Vanburen, 1 Paige, 479.
+In the case of Grant’s heirs v. Craigmiles, 1 Bibb’s R. 203, this question of practice was directly decided. The court held, in that case, that a bill for a specific performance of a parol contract for land, against the minor heirs of the vendor, could not be enforced, although the statute against frauds was not insisted upon in the answer of their guardian ad litem.
+In this case, the existence of the contract, as set out in the bill, is fully made out by the testimony. The principal question to be decided is, whether the testimony establishes such part performance of this parol contract as entitles the complainants to a specific execution. The whole evidence upon this subject is directed to prove admissions made by the vendor, in his life time, with reference to the payment of the purchase money. No receipt or other written voucher is adduced upon the subject. Proof of admissions made at a remote period, should be received with due caution, especially where it is sought, through them, to take a case without the operation of an existing statute. It seems to me that the admission of such testimony would invite the commission of the perjuries which it was the object of the statute to guard against. However, even giving to the testimony its broadest effect, it proves nothing more than that a, part of the purchase money was paid. No other act of part performance of the contract is shown. It is true, the widow of the vendor (who is supposed to have been made a party on account of her dower right) states, that the vendee was in possession at the time of the contract, but denies that that possession had any reference to the terms of that contract. Suppose this admission, with its qualification, to have any effect, still it is not evidence against the other defendants, who are principally interested. There is no evidence going to show that the vendor recognized the continuing possession of the purchaser as being held by virtue of the contract, or that the latter proceeded to make lasting improvements upon the land upon the faith of that contract, with the knowledge and approbation of the vendor.
+There is, then, no testimony shewing any other act of part performance of his contract, than that of the payment of a part of the purchase money. The proof fails altogether to establish any direct connection between the contract and the possession of the vendee. This is indispensable where possession is insisted on as part performance. 1 John. C. R. 131, 146, Phillips v. Thompson. Although courts of equity, for the purpose of preventing fraud, have gone very far in executing parol contracts, where there was evidence of acts done in part performance, yet it is now generally admitted that the exceptions thus created to the statute have introduced, nearly all the evils which it was the purpose of the legislature to avoid; and it is said that the rule is not to be extended further. 2 Sch. & Lef. 5; Grant v. Naylor, 4 Cranch, 235.
+What acts will constitute such part performance as to 'give validity to the contract, is a question about which the authorities are not altogether uniform. -T have found no case which goes the length of saying that a payment of a part of the purchase money is sufficient; the rule is otherwise laid down in 1 Fonb. Eq. 175. Nor have I found any case, except that of Lacon v. Mertins, 3 Atk. 4, where the mere act of paying the purchase money, unconnected with other acts, has been deemed sufficient. The cases of Clinan v. Cook, 1 Sch. &. Lef. 40; Frame v. Dawson, 14 Ves. 388; and Jackson v. Cartright, 5 Munf. 308, seem to recognize a different rule. Applying the principles of these cases to the one before me, I am of opinion that the complainants have not made such a case as entitles them to the relief asked.
+The bill must accordingly be dismissed, each party paying their own costs.
