@@ -1,0 +1,23 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1872"
+citations: ["1 Mor. St. Cas. 302", "7 Smedes & M. 475"]
+reporter: "mor-st-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dominges v. The State,"]
+source_url: "https://static.case.law/mor-st-cas/1/cases/0302-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12131044
+cites_cases: ["14 Johns., 341"]
+---
+
+# Dominges v. State
+
+## Majority (Thacher, J.)
+
+Thacher, J.
+The plaintiff in error was indicted in the Wilkinson county circuit court for the murder of one Holmes. Upon his being called to the bar for trial, he filed his affidavit for a continuance of the cause on the ground of the absence of material witnesses in his behalf. This affidavit was in legal form, and set out that an absent witness, Haley, would prove that the accused acted in self-defence in the matter with which he was charged, and that absent witnesses, Hodge and Ferguson, would prove that the deceased, alleged to have been murdered by the accused, threatened to take the life of the accused, and went armed for that purpose. At the filing of this motion for a continuance, supported by an affidavit of the foregoing character, the state, by the district attorney, agreed to admit upon the trial, that if the witnesses named in the affidavit were present, they would swear to the truth of the facts deposed to therein. The motion for a continuance was overruled below and an exception to that judgment taken by the accused. On the trial the affidavit for the continuance was read to the jury, and it was admitted, that if the witnesses named therein had then been present, they would have sworn to the truth of the facts therein set forth. The state thereupon introduced witnesses to impeach the credibility of the said Haley, one of the witnesses named in the affidavit for a continuance. A number of instructions to the jury were requested, upon the behalf of the accused, to the effect, that the foregoing admission by the state, in reference to the testimony of the witnesses described in the affidavit for a continuance, was an admission of the truth of the facts therein set out, and that full weight to that extent should be given to them by the jury in weighing the evidence of the case. These instructions were refused by the court, and a verdict and judgment of guilty according to the indictment were rendered against the accused.
+The substitution of depositions for oral testimony belongs to civil trials. In no state of circumstances, under our constitution, can a deposition of a witness be used against the accused in a criminal prosecution, and a similar rule seems to hold as to depositions of witnesses in his favor, unless by his consent. The system of criminal jurisprudence appears to require the presence of the witnesses, both for and against the accused. Yery often, in such prosecutions, much depends upon the appearance, manner and mode of testifying of a witness, and it is this that adds the superior character and importance to oral testimony.
+The practice in criminal cases of proposing to admit what was expected to be proved by absent witnesses, is not calculated to advance the ends of public justice; and if, indeed, regular and competent should not be allowed or encouraged except in very extreme cases. But when such an admission has been once made it constitutes an admission, not merely that the absent witnesses would have sworn to certain alleged facts, but also that the facts alleged are absolutely true. Such an admission is an absolute concession of the facts stated by the accused upon his part, because that alone would be a fair substitute for what might have been the result of the evidence upon an oral examination of tbe witnesses whose actual presence was sought to be obtained.
+Judgment reversed, and a new trial directed to be allowed by the court below.
