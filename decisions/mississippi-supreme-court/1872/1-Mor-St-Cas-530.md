@@ -1,0 +1,24 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1872"
+citations: ["1 Mor. St. Cas. 530", "23 Miss. 261"]
+reporter: "mor-st-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clarke v. The State,"]
+source_url: "https://static.case.law/mor-st-cas/1/cases/0530-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12138913
+---
+
+# Clarke v. State
+
+## Majority (Yeegeb, J.:)
+
+Yeegeb, J.:
+The plaintiff in error was indicted at the October term, 1850, of the circuit court of Wayne county, for an assault and mayhem committed upon Richard Dodd, by cutting out his eyes with a knife. On the trial, the proof clearly established the fact of mayhem, which it appears was committed in the year 1833. The proof also showed that immediately, and in less than a year after the commission of the crime, the plaintiff in error fled and absconded from justice, and was not within the county of Wayne, where the crime was committed, until within twelve months before the indictment on which he was tried was found against him. At the April term, 1834, of the circuit court of Wayne county, an indictment for this offense was found against defendant, and capias, alias capias, pluries, etc., were issued against him repeatedly, and all were returned “not found.” The indictment found in 1834 was quashed by the court, at the instance of the district attorney. The defendant was convicted and sentenced to punishment, according to the provisions of the act of 1822, which was in force when the offense was committed by him. Three errors are assigned for the prisoner.
+1. It was error in the district attorney to quash the indictment founded in 1834. In this we are unable to see any error. It was a matter entirely discretionary with the district attorney, who had the power to enter a nolle prosequi, or quash the indictment, if be saw fit to do so, until the defendant was arraigned and put upon his trial on that indictment. What effect the act of quashing an indictment, after a prisoner is arraigned and a j nry empanelled to try him, might have under that clause in the constitution, which says that “No one shall be twice put in jeopardy for the same offense,” we need not now determine. Certainly until after arraignment and the empanelling of the jury, the power of quashing an indictment rests in the discretion of the district attorney, and is not an act of which the defendant can complain, it not being to his prejudice.
+2. It is said that a new tidal should have been granted to the prisoner, because the offense of which, he was charged was committed more than twelve months before the indictment was found against him. To this it is sufficient to reply, that, in our opinion, the proof clearly showed that the defendant came within the proviso of the act which declares, that it “ shall not extend to any person or persons absconding or fleeing from justice.”
+3. It is said the court erred in not arresting the judgment, because the law in relation to mayhem and its punishment had been changed since the commission of the crime for which the prisoner was convicted, and that this change of the law amounted to a statutory pardon. This position is not tenable. The act of 1839, which changed the law on the subject of mayhem, and provided for its punishment by imprisonment in the penitentiary instead of the pillory and fine, by which it was formerly punished, expressly enacted, that “No offense committed and no penalty or forfeiture incurred, previous to the time when this act shall take effect, should be affected by this act,” except that when punishment, forfeiture or penalty shall have been mitigated by this act, its provisions shall be applied to the judgment to be pronounced for offenses committed before its adoption.
+This provision clearly shows that the legislature did not intend that the penitentiary code should amount to a statutory pardon for offenses committed before its adoption. The only change which it made in the law, was to commute or change one form of punishment for another, substituting the more mild for the severer punishment inflicted before its passage. We think that in every case of offenses committed before the adoption of the penitentiary code, the prisoner has the option of selecting the punishment prescribed in that code, in lieu of that to which he was liable before its enactment. But inasmuch as this record does not show that the prisoner claimed a commutation of his punishment, we are of opinion that the court acted properly in sentencing him to punishment, according to the law in force when the offense was committed by him.
+Let the judgment be affirmed.
