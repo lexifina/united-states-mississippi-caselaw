@@ -1,7 +1,8 @@
 ---
 court: "Mississippi Supreme Court"
 decided: "1872"
-citations: ["1 Mor. St. Cas. 811", "30 Miss. 593", "1 Mor. St. Cas. 842", "30 Miss. 631"]
+decided_precision: "year"
+citations: ["1 Mor. St. Cas. 811", "30 Miss. 593"]
 reporter: "mor-st-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Dick et al. (slaves) v. The State,"]
 source_url: "https://static.case.law/mor-st-cas/1/cases/0811-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12143928
-cites_cases: ["1 Am. Law Reg., 435", "24 Miss. Rep., 578", "24 Miss., 512", "3 Day, 286", "4 S. & M., 31", "7 Gratt. 642"]
+cites_cases: ["1 Am. Law Reg., 435", "24 Miss., 512", "4 S. & M., 31", "7 Gratt. 642"]
 ---
 
 # Dick v. State
