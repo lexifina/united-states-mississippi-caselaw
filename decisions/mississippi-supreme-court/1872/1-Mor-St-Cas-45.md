@@ -1,7 +1,8 @@
 ---
 court: "Mississippi Supreme Court"
 decided: "1872"
-citations: ["1 Mor. St. Cas. 45", "1 Howard 163", "1 Mor. St. Cas. 73", "1 Howard 247"]
+decided_precision: "year"
+citations: ["1 Mor. St. Cas. 45", "1 Howard 163"]
 reporter: "mor-st-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["Byrd v. The State,"]
 source_url: "https://static.case.law/mor-st-cas/1/cases/0045-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12122790
-cites_cases: ["1 Stewart, 31", "2 Wend., 137", "26 Miss., 362", "30 Miss., 656", "37 Mo., 578", "39 Miss., 737", "5 Penn. St., 357", "7 Mo., 206", "8 Johns., 566"]
+cites_cases: ["1 Stewart, 31", "2 Wend., 137", "37 Mo., 578", "39 Miss., 737", "5 Penn. St., 357", "8 Johns., 566"]
 ---
 
 # Byrd v. State
