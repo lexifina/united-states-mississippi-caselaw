@@ -1,7 +1,8 @@
 ---
 court: "Mississippi Supreme Court"
 decided: "1872"
-citations: ["1 Mor. St. Cas. 209", "1 Smedes & M. 149", "2 Mor. St. Cas. 1578", "42 Miss. R., 635"]
+decided_precision: "year"
+citations: ["1 Mor. St. Cas. 209", "1 Smedes & M. 149"]
 reporter: "mor-st-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
