@@ -1,0 +1,29 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1872"
+citations: ["1 Mor. St. Cas. 527", "23 Miss. 257"]
+reporter: "mor-st-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Copeland v. The State,"]
+source_url: "https://static.case.law/mor-st-cas/1/cases/0527-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12138775
+---
+
+# Copeland v. State
+
+## Majority (Eishee, J.:)
+
+Eishee, J.:
+At the October term, 1850, of the circuit court of Jones county, the plaintiff in error was convicted of peijury, and sentenced to two years’ confinement in the penitentiary of the state. A motion was made in the court below for a new trial, on the ground that the verdict of the jury was not sustained by the evidence, and upon the further ground of newly-discovered evidence since the trial. The court overruled the motion, and the counsel for the prisoner took a bill of exceptions to the judgment of the court in overruling the motion, and have prosecuted a writ of error to this court.
+The indictment charges, “ That on the trial of a certain issue before Benjamin C. Duckwofth,. a justice of the peace of Jones county, in a certain cause wherein Robert Tromborough was plaintiff, and the said Samuel Copeland defendant, the said Copeland appeared as a witness in his own behalf, and took his corporal oath before the said justice of the peace that the evidence which he, the said Copeland, should then give, touching the matters in question between the said parties, should be the truth, the whole truth, and nothing but the truth.”
+That upon the issue joined as aforesaid, it then and there became, and was a material question, whether a certain account in favor of the said defendant and against the said plaintiff for $15.80 had been paid; that said account was offered by the defendant as an offset against the demand of the plaintiff; that the said prisoner being sworn as aforesaid (omitting the formal part) before the said justice, did depose and swear, etc., that the account offered as an offset was just and true, still owing, etc.
+"We have stated the substance of the indictment so far as it relates to the oath of the prisoner, and the matter in controversy before the justice of the peace ; the charge is, that the prisoner appeared ás a witness in his own behalf, etc. From this we must infer that he gave his testimony orally in the usual way on the trial; and this brings us to the question whether the evidence introduced before the jury was proper or sufficient to sustain the verdict.
+The proceedings before the justice were introduced on the trial of the prisoner, amongst which appears a copy of an affidavit in these words:
+. “The State of Mississippi, Jones county. Personally appeared before the undersigned justice of the peace, 4 who de-poseth and say’ on oath that the within account is just and true, still owing and due, and that he has received no part thereof, or any person for him.
+“ Samuel x Copelakd. mark.
+“ Sworn to and subscribed before me this 5th day of January, 1850. B. C. DuoKWOeth.”
+The magistrate certifies that this afiidavit is a true copy from the original in his office, “ and that the afiidavit was made on the trial before him, and duly taken by the prisoner on the aforesaid trial.” This is every particle of evidence relating to the oath taken by the prisoner. It no where appears on the record that the account was offered, as an offset, on the trial of the issue before the justice. But the question we desire to notice is, whether the party accused could be introduced as evidence under the indictment. It is unnecessary to cite authority to sustain the position that an indictment must set forth, in a certain and definite manner, the offense with which the party is charged, and that proof can only be introduced to sustain the charge thus made in the indictment. The charge in this case is, that the party was sworn as witness in his own case, and while thus testifying, committed the perjury set forth in the indictment. The afiidavit was not evidence which could be introduced on the trial of the issue, except by consent of parties, and this consent is neither charged nor proved; we are bound, therefore, to infer from the indictment that the accused gave his evidence orally. If it is intended to convict a party of perjury, in falsely swearing to an affidavit, the indictment must sufficiently charge the fact that the affidavit was made by the accused, otherwise it cannot be introduced as evidence. In the case of The People v. Robertson, 3 Wheeler, 191 the court said, that “All indictments for perjury upon an affidavit, state the charge in one or two ways; either that he did corruptly say, depose, swear and make affidavit in writing, or that he did procure and exhibit a certain affidavit in writing.” If the indictment must contain a charge that an affidavit was made when the perjury was committed in that manner, it follows that without such a charge in the indictment, an affidavit could not be introduced as proof to authorize a verdict of guilty.
+We are, therefore, of opinion that the court erred in refusing the new trial.
+Judgment reversed, and cause remanded; new trial granted.
