@@ -1,7 +1,8 @@
 ---
 court: "Mississippi Supreme Court"
 decided: "1872"
-citations: ["1 Mor. St. Cas. 702", "26 Miss. 247", "1 Mor. St. Cas. 858", "30 Miss. 653", "1 Mor. St. Cas. 418", "11 Smedes & M. 315"]
+decided_precision: "year"
+citations: ["1 Mor. St. Cas. 702", "26 Miss. 247"]
 reporter: "mor-st-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Jones v. The State,"]
 source_url: "https://static.case.law/mor-st-cas/1/cases/0702-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12142747
-cites_cases: ["14 Ala., 411", "15 Mo., 349", "8 Humph., 75", "8 Ind., 439", "9 N. C., 140"]
+cites_cases: ["15 Mo., 349", "8 Humph., 75", "8 Ind., 439", "9 N. C., 140"]
 ---
 
 # Jones v. State
