@@ -1,0 +1,23 @@
+---
+court: "Mississippi Supreme Court"
+decided: "1872"
+citations: ["1 Mor. St. Cas. 200", "6 Howard 298"]
+reporter: "mor-st-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Moss et al. v. The State,"]
+source_url: "https://static.case.law/mor-st-cas/1/cases/0200-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12127296
+---
+
+# Moss v. State
+
+## Majority (Sharkey, C. J.:)
+
+Sharkey, C. J.:
+The plaintiff in error was indicted in the circuit court of Hinds county, for retailing spirituous liquors in less quantities than one gallon. A bench warrant issued which was executed by the sheriff and the defendant entered into a recognizance for his appearance at a subsequent day of the same term at which the indictment was found. At a subsequent terna a forfeiture was taken, and on the return of a scire facias, the defendant failing to appear the judgment nisi was made final, to reverse which, this writ of error is brought.
+The first objection taken is, that the sheriff had no power to take the recognizance, because the bench warrant was issued in term time, returnable at a subsequent day of the same term; and it is insisted that the sheriff can only take recognizances in vacation returnable to the next term.
+The language of the statute on which this objection is predicated is as follows : “ He (the sheriff), is hereby authorized to take recognizances, with good and sufficient security, of any person or persons whom he may arrest on the process of a circuit court of law, charged before said court with any crime or misdemeanor not punishable with death, in a reasonable penalty, conditioned for the appearance of the offender or offenders, to the next term of said court, unless such process be made returnable forthwith during the term of the court at which the same is awarded.” A general rule is here laid down, but there is also an exception created by the latter clause of the statute. The general provision must prevail, unless the case comes within the exception. The only exception is, where the process is made returnable forthwith to the same term of the court at which it was awarded. This process was returnable to the same term, but it was not returnable forthwith. The reason why the sheriff is not allowed to take recognizance when the process is returnable forthwith is, that it is his duty to take the prisoner immediate ly into court, according to the command of the writ. But when the prisoner is only required to appear at a distant day, it is competent for the sheriff to take his recognizance. The reason of the exception then fails, and the object of the law is answered. The recognizance taken by the sheriff is equally as binding as if it had been taken in open court. Hence we think the recognizance was well taken.
+The objection is, that the forfeiture was not taken on the day when the defendant was bound to appear at a subsequent term of the court. This circumstance, of itself, would not vitiate the forfeiture; but the rule seems to be, that where a defendant is recognized to appear on a particular day, a forfeiture cannot be taken at a subsequent term without notice for that purpose. 2 Hawk. P. C. 173, note 5; Barbour, Cr. Treat., 507. This rule would probably not apply to recognizances returnable generally at a particular term, if the forfeiture was taken during that term.
+There is a further statutory provision by which recognizances are continued from term to term, as other process, in which there is also a provision that recognizances shall contain a condition, that the accused and his sureties shall be liable thereon until the principal shall be discharged by due course of law. This provision is little more than declaratory of the common law, by which, on recognizance, the defendant was bound to appear from time to time, until discharged by due course of law; and still it seems if a forfeiture was not taken on the day for appearance, that it could not be taken afterwards without notice. It is therefore reasonable to conclude, that although the recognizance was continued by statute from term to term, a forfeiture could not be taken at a subsequent term without notice. And if a notice be essential to the forfeiture, it is but right that it should appear to have been given; and as no such thing appears in the record, we think the forfeiture was impi’operly taken. The recognizance is unexceptionable, and under the statute will continue in force, but the judgment on the scire facias must be reversed, and the cause remanded.
