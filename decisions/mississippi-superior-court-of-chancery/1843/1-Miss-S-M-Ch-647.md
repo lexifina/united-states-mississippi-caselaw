@@ -1,0 +1,28 @@
+---
+court: "Mississippi Superior Court of Chancery"
+decided: "1843-12"
+citations: ["1 Miss. (S. & M. Ch.) 647"]
+reporter: "miss-s-m-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ann Emily Warren, by her next friend, v. Philip R. Haley, et al."]
+source_url: "https://static.case.law/miss-s-m-ch/1/cases/0647-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1375610
+cites_cases: ["3 How. 394", "3 How. Rep. 324", "3 How. Rep. 396", "4 Desaus. 532", "6 Munf. 132"]
+---
+
+# Warren v. Haley
+
+## Majority (Robert Hughes,)
+
+Robert Hughes,
+special chancellor.
+The complainant filed her bill claiming to be heir of her aunt, Ann Warren, and entitled to the negroes in the bill mentioned under the following bill of sale, or deed of gift, to wit :
+“ Know all men, that I, John Snodgrass of Claiborne county, and State of Mississippi, for and in «consideration of the natural love and affection I bear for my daughter Ann, have given, granted, and delivered, and by these presents, do give, grant, and deliver, unto Thomas Freeland of Claiborne county, and Slate of Mississippi, in trust, for the use and benefit of my daughter, Ann, and her lawful heirs, the following described negroes, to wit, &c. To have and to hold the said negroes, to the said Thomas Free-land, in trust, for the proper use and benefit of the said Ann, and her heirs forever, &c.” The negroes were delivered to Jeremiah B. Warren, at the time husband of said Ann, and by him placed on a plantation in Warren county, held by him, where they remained ; Ann the wife, departed this life without issue, and complainant is the only heir of said Ann. The said Jeremiah B. Warren is yet living — judgment obtained against said Jeremiah B. Warren, execution upon which levied on the negroes mentioned in the deed of gift, or some of them. Freeland refuses to execute the trust. The bill prayed for injunction to sale under the judgment, which was granted. There is a demurrer to the bill.
+The , only question for my determination is, whether the negroes belong to Jeremiah B. Warren, or the complainant. If they are held by Freeland, in trust, for the complainant, they are not subject to the execution levied upon them, but, if the use is in Jeremiah B. Warren, then they are so subject, and the demurrer should be allowed.
+The question is argued on paper by counsel, and it is insisted upon the one side that, by the deed, the negroes in contest are limited to the sole and exclusive use of Mrs. Ann Warren, by the deed of gift, and, consequently, they are not subject to the disposition or control of, or liable to pay the debts of, Jeremiah B. Warren; while on the other hand it is insisted, that the deed of gift gave a use absolutely to Mrs. Warren, which was immediately jure mariti vested in her husband, and, consequently, he is entitled to control them, and they are liable under execution to pay his debts. I do not concur with counsel on either side on this point. I have looked into the authorities cited by both counsel, and, with all. due deference to their .greater ability, I do not see how the question which is made can arise in this case ; were Mrs. Ann Warren yet living, and there was a contest between her and the creditors of her-husband, then the question would arise, and in that event I am inclined to believe, after a full examination of all the cases, I would be of the opinion, that the deed of gift intended to and did secure to Mrs. Warren an estate for her sole, separate use, and that during her life her husband could not take it, and consequently the creditors of the husband would not be entitled.
+The question, however, is presented in an entirely different view. Here an heir, not a child, or the issue of the beneficiary under the deed of gift, is raising the question, and upon her bill the question will have to be decided, as if it was a question between her and the creditors of Jeremiah B. Warren. How, then, would it be in a contest between the complainant and Jeremiah B. Warren ? Which would be entitled to the property ? These questions are to be answered by an examination of the deed of gift, and by an application of the rules of law to it. The negroes are granted to “ Thomas Freeland, in trust, for the use and benefit of my daughter Ann, and her lawful heirs. To have and to hold for the use and benefit of the said Ann, and her heirs forever.” Now, what estate in the property is created by these words ? The legal estate is vested in Freeland, and an use in fee is created in Ann. The words lawful heirs, and her heirs forever, are used in the deed, to show the estate intended to be vested in Ann ; they were used as words of limitation of the estate to the donee, and not as words of purchase for the heirs. See Reeves’s Domestic Relations, 455, et seq.
+I think the intention of the donor is evident; he intended, that his daughter should have a fee in the use, and that for her separate use during her life, but here the intention stops •, after her death, the law steps in and disposes of the fee. In ordinary cases, the next of kin, being such as would inherit real estate, are entitled. But between wife deceased, and husband surviving, the rule as to next of kin does not apply. The husband surviving is entitled to the chattels of his wife, not as next of kin, but jure mariti. See Lowry v. Huston, 3 How. 394, et seq.
+The husband, Jeremiah B. Warren, therefore, upon the death of his wife, Ann, who was the donee, was entitled to the negroes in contest, and of course they are subject to execution to pay his debts.
+The demurrer is allowed, the injunction dissolved, and the bill dismissed.
