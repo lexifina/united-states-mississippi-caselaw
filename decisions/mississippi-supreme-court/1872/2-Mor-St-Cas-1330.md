@@ -1,7 +1,8 @@
 ---
 court: "Mississippi Supreme Court"
 decided: "1872"
-citations: ["2 Mor. St. Cas. 1330", "37 Miss. Rep., 411", "1 Mor. St. Cas. 705", "26 Miss. 299"]
+decided_precision: "year"
+citations: ["2 Mor. St. Cas. 1330", "37 Miss. Rep., 411"]
 reporter: "mor-st-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["McCarty v. State,"]
 source_url: "https://static.case.law/mor-st-cas/2/cases/1330-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1829510
-cites_cases: ["1 Chit. Cr. L. 331", "1 Chit. Cr. L., 551", "1 Chit. Cr. L., 632", "1 Doug., 207", "1 How. 215", "11 Johns., 442", "12 Conn., 262", "12 Pick., 496", "13 S. & M., 202", "15 Ill., 511", "2 Barb. S. C., 427", "2 Blackf., 475", "2 Dev. & Bat., 196", "26 Miss., 362", "3 Hawks, 175", "3 How., 432", "33 Miss., 356", "4 How., 187", "4 N. H., 352", "5 Ala., 72", "5 How. 20", "5 How., 14", "5 Mass., 435", "7 Cow., 382", "7 Wend., 417", "8 Leigh, 745", "9 Pick., 496"]
+cites_cases: ["13 S. & M., 202", "33 Miss., 356", "5 How., 14"]
 ---
 
 # McCarty v. State
